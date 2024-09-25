@@ -14,7 +14,7 @@ ScreenGui.ResetOnSpawn = false
 
 Frame.Parent = ScreenGui
 Frame.Active = true
-Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BackgroundColor3 = Color3.fromRGB(255, 153, 204)
 Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.Position = UDim2.new(0.0610425249, 0, 0.0939490423, 0)
 Frame.Size = UDim2.new(0, 218, 0, 225)
@@ -53,7 +53,7 @@ TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.TextSize = 14.000
 
 TextButton_2.Parent = Frame
-TextButton_2.BackgroundColor3 = Color3.fromRGB(0, 255, 30)
+TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 102, 178)
 TextButton_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_2.Position = UDim2.new(0.0825688094, 0, 0.804444432, 0)
 TextButton_2.Size = UDim2.new(0, 180, 0, 30)
